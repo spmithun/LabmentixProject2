@@ -6,9 +6,9 @@ This repository contains a complete Excel-based data analysis project focused on
 ## 📁 Repository Contents
 | File Name                             | Description                                                                                                     |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| `Final_Excel.xlsx`               | Raw Uber request dataset containing ride-level data like timestamps, pickup points, status, and driver IDs.     |
-| `Raw Data.xlsx`   | Cleaned version of the dataset used for analysis (nulls removed, time formats fixed, derived columns added).    |
-| `Bike Buyer Analysis.pdf`                  | Excel dashboard with 3 basic pivot tables and Charts.                                                           |
+| `Final_Excel.xlsx`               | Final Cleaned Dataset with Dashboards    |
+| `Raw Data.xlsx`   | Raw Dataset for the Project    |
+| `Bike Buyer Analysis.pdf`                  | Insights PDF of the project                                                           |
 
 
 ## 📌 Project Overview
