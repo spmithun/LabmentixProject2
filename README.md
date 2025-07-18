@@ -63,19 +63,7 @@ These dashboards provide interactive, visual representations of trends and patte
 - **High Income Influence**: Upper-Middle income buyers dominate
 - **Commute Preference**: Shorter commute distance (0–1 miles) correlates with bike purchase
 - **Education Impact**: Bachelor’s degree holders are more likely to purchase
-
-## ❓ Key Business Questions Answered
-
-1. Which age group is most likely to buy a bike?
-2. How does income level affect purchasing?
-3. Does home ownership influence decisions?
-4. Are there regional differences in bike buying?
-5. Is there a gender-based preference?
-6. What impact does commute distance have?
-7. How does car ownership relate to bike purchase?
-8. Does marital status affect purchase behavior?
-9. Which education group buys more?
-10. Which occupation group is the most active buyer?
+- 
 
 ## 📌 Recommendations
 
